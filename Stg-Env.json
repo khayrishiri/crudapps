@@ -1,0 +1,15 @@
+{
+	"id": "0dd78e74-9c73-4cb9-a849-6ae167de6f97",
+	"name": "Stg-Env",
+	"values": [
+		{
+			"key": "url",
+			"value": "127.0.0.1:8080",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-07-15T07:45:13.116Z",
+	"_postman_exported_using": "Postman/10.16.0"
+}
